@@ -1,0 +1,26 @@
+.headerClientes {
+    background-color: #61A0F2;
+}
+
+.footerClientes {
+    background-color: #61A0F2;
+}
+
+.seccionClientes {
+    background-color: #CCD8FF;
+    width: 100%;
+}
+
+.clientButtons {
+    color: black;
+    background-color: #61A0F2;
+}
+
+.clientDelete {
+    color: black;
+    background-color: #F26161;
+}
+
+.inputClientes input{
+    background-color: #CCD8FF;
+}

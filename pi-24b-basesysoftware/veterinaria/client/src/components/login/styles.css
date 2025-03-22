@@ -1,0 +1,63 @@
+/* Global Styles */
+
+/* Header and Footer Styles */
+.header, .footer {
+    background-color: #61A0F2;
+}
+
+.logo-image {
+    width: 50px;
+    height: 50px;
+}
+
+.edit-btn {
+    background-color: #61A0F2;
+    color: #fff;
+    border: none;
+}
+
+.edit-btn:hover {
+    background-color: #5091d9;
+}
+
+footer .social-media a {
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+
+footer p {
+    margin: 0;
+}
+
+
+/* Adjustments for main content */
+main {
+    padding-bottom: 20px; /* Ensure space between content and footer */
+}
+
+
+.redesSocialesImg {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  
+.logoRedesSociales {
+padding-top:5px;
+width: 50px;
+height: 50px;
+margin-left: 50px;
+margin-right: 15px;
+}
+
+.leftLogInSection {
+    background-color: #F6F6F6;
+}
+
+.rightLogInSection {
+    padding: 40px;
+}
+
+  
+  
+  

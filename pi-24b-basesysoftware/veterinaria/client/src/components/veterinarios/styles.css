@@ -1,0 +1,179 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Header and Footer Styles */
+.header, .footer {
+    background-color: #61A0F2;
+}
+
+.logo-image {
+    width: 50px;
+    height: 50px;
+}
+/* Veterinarios Section */
+.veterinarios-section {
+    background-color: #CCD8FF;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+/* Veterinario Card Styles */
+.veterinario-card {
+    display: block;
+    /* Remove width: 100%; */
+    /* width: 100%; */
+        
+    margin-bottom: 20px; /* Adjust spacing between cards */
+}
+
+.veterinario-card .row {
+    margin: 0;
+}
+
+.veterinario-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+.veterinario-card .btn {
+    width: 60%;
+    margin-left:320px;
+    margin-bottom: 10px;
+}
+
+.veterinario-card .btn:last-child {
+    margin-bottom: 0;
+}
+
+.veterinario-card .col-md-2,
+.veterinario-card .col-md-8 {
+    padding: 0 15px;
+}
+
+.veterinario-card p {
+    margin: 0;
+}
+
+/* Custom styles for buttons */
+.add-vet {
+    background-color: #61A0F2;
+    color: #fff;
+    border: none;
+}
+
+.add-vet:hover {
+    background-color: #5091d9;
+}
+
+.edit-btn {
+    background-color: #61A0F2;
+    color: #fff;
+    border: none;
+}
+
+.edit-btn:hover {
+    background-color: #5091d9;
+}
+
+footer .social-media a {
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+
+footer p {
+    margin: 0;
+}
+
+.link-no-decoration {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Flexbox layout styles */
+.flex-column {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.flex-grow-1 {
+    flex-grow: 1;
+}
+
+/* Adjustments for main content */
+main {
+    padding-bottom: 20px; /* Ensure space between content and footer */
+}
+
+/* Remove default list group styles if necessary */
+.list-group {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+/* Optional: Adjust font sizes */
+.veterinario-card p {
+    font-size: 1rem;
+}
+
+.redesSocialesImg {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 50;
+  }
+  
+  .logoRedesSociales {
+    padding-top:5px;
+    width: 50px;
+    height: 50px;
+    margin-left: 50px;
+    margin-right: 15px;
+  }
+  .siganos {
+    margin-left: 55px;
+  }
+
+  /* Adjusting title separation */
+.title-section {
+    background-color: #CCD8FF;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+  }
+  
+  /* Background color for form inputs */
+  .custom-input {
+    background-color: #CCD8FF; /* Light blue background */
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
+  /* Form styling */
+  .veterinarios-form {
+    width: 350px; /* Set form width similar to the screenshot */
+  }
+  
+  /* Adjust padding and spacing if necessary */
+  .form-control.custom-input {
+    margin-bottom: 10px; /* Space between fields */
+  }
+  
+  /* Adjust button styling */
+  .btn.add-vet {
+    background-color: #61A0F2;
+    color: white;
+    border-radius: 5px;
+  }
+  
+  /* Adjustments for layout centering */
+  .d-flex.justify-content-center {
+    margin-top: 20px;
+  }
+  

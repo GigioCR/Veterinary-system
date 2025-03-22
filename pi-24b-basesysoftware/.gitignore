@@ -1,0 +1,5 @@
+*.sh
+*contents.txt
+*server*.txt
+*client*.txt
+.DS_Store

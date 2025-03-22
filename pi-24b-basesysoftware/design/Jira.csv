@@ -1,0 +1,403 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Inward issue link (Issue split),Outward issue link (Issue split),Outward issue link (Issue split),Custom field (Actual end),Custom field (Actual start),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Development),Custom field (Epic Color),Custom field (Epic Name),Custom field (Epic Status),Custom field (Goals),Custom field (Impact),Custom field (Issue color),Custom field (Locked forms),Custom field (Open forms),Custom field (Project overview key),Custom field (Project overview status),Custom field (Rank),Custom field (Request Type),Custom field (Sentiment),Sprint,Custom field (Start date),Custom field (Story Points),Custom field (Story point estimate),Custom field (Submitted forms),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field (Total forms),Custom field (Vulnerability),Custom field ([CHART] Date of First Response),Custom field ([CHART] Time in Status),Parent,Parent summary,Status Category,Status Category Changed
+ver info de vets,SCRUM-63,10136,Subtask,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,09/Sep/24 11:34 AM,09/Sep/24 11:34 AM,11/Sep/24 12:43 AM,,,0,,,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i000br:,,,SCRUM Sprint 1,,,,,,,,,,,,10068,Comprobación de Información por parte de Dueño,To Do,09/Sep/24 11:34 AM
+ver info de clientes,SCRUM-62,10135,Subtask,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,09/Sep/24 11:34 AM,09/Sep/24 11:34 AM,11/Sep/24 12:46 AM,,,0,,,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i000bj:,,,SCRUM Sprint 1,,,,,,,,,,,,10068,Comprobación de Información por parte de Dueño,To Do,09/Sep/24 11:34 AM
+Ver informacion de administradores,SCRUM-61,10134,Subtask,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,09/Sep/24 11:34 AM,09/Sep/24 11:34 AM,11/Sep/24 12:46 AM,,,0,,,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i000bb:,,,SCRUM Sprint 1,,,,,,,,,,,,10068,Comprobación de Información por parte de Dueño,To Do,09/Sep/24 11:34 AM
+Ver información de la veterinaria,SCRUM-60,10133,Subtask,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,09/Sep/24 11:34 AM,09/Sep/24 11:34 AM,11/Sep/24 12:46 AM,,,0,,,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i000b3:,,,SCRUM Sprint 1,,,,,,,,,,,,10068,Comprobación de Información por parte de Dueño,To Do,09/Sep/24 11:34 AM
+Eliminar veterinaria ,SCRUM-59,10132,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,09/Sep/24 11:32 AM,09/Sep/24 11:33 AM,11/Sep/24 12:46 AM,,,0,"Como Dueño, quiero poder eliminar cualquier entidad de mi sistema.
+
+*Criterios de Aceptación:*
+
+* Existe un rol privilegiado Dueño.
+* Existe el diseño de una Veterinaria que contiene Administrador, Veterinario y Cliente.
+* El rol de Dueño podrá: eliminar cualquier entidad (Administrador, Veterinario y Cliente).",,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,,,,,,,,,SCRUM-16,,,,,,,,,,,,,,,,,,,0|i0001j:,,,SCRUM Sprint 1,,,,,,,,,,,,10104,Entidad Dueño,To Do,09/Sep/24 11:32 AM
+Entidad Cita,SCRUM-58,10109,Epic,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,01/Sep/24 1:07 PM,01/Sep/24 1:23 PM,01/Sep/24 1:22 PM,,,0,"Es creada por un Cliente, manejada por Clientes o Administradores. Tiene campos de fecha, servicio, Mascota relacionada, Veterinario relacionado, monto, estado…",,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i000av:,,,,,,,,,,,,,,,,,To Do,01/Sep/24 1:07 PM
+Entidad Mascota,SCRUM-57,10108,Epic,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,01/Sep/24 12:28 PM,01/Sep/24 1:21 PM,01/Sep/24 1:21 PM,,,0,"Por lo general le pertenece a un Cliente pero puede ser independiente en casos particulares.
+
+No tiene permisos pero guarda su propio historial médico.",,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i000an:,,,,,,,,,,,,,,,,,To Do,01/Sep/24 12:28 PM
+Entidad Cliente,SCRUM-56,10107,Epic,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,01/Sep/24 12:21 PM,01/Sep/24 1:20 PM,01/Sep/24 1:20 PM,,,0,"Las entidades Cliente por su parte podrán agendar citas, ver el historial médico de sus mascotas, realizar pagos, comprobar, modificar citas y su información personal.",,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i000af:,,,,,,,,,,,,,,,,,To Do,01/Sep/24 12:21 PM
+Entidad Veterinario,SCRUM-55,10106,Epic,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,01/Sep/24 12:20 PM,01/Sep/24 1:20 PM,01/Sep/24 1:20 PM,,,0,"Los Veterinario deben de poder verificar los historiales e informaciones personales de sus pacientes, así como modificarlos. También pueden ver las citas que han sido agendadas por sus clientes.",,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i000a7:,,,,,,,,,,,,,,,,,To Do,01/Sep/24 12:20 PM
+Entidad Administrador,SCRUM-54,10105,Epic,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,01/Sep/24 12:20 PM,01/Sep/24 1:19 PM,01/Sep/24 1:18 PM,,,0,"La persona Administrador es la encargada de exactamente una instancia de Veterinaria.
+
+ Podrá agregar veterinarios, modificar los servicios ofrecidos y la tarifa a cobrar por ellos, supervisar la información de todas las personas registradas en la veterinaria, así como añadir y/o eliminar tanto Cliente (con su mascota) como Veterinario. También podrá ver la información de las citas agendadas por el cliente.",,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0009z:,,,,,,,,,,,,,,,,,To Do,01/Sep/24 12:20 PM
+Entidad Dueño,SCRUM-53,10104,Epic,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,01/Sep/24 12:20 PM,01/Sep/24 1:06 PM,01/Sep/24 1:06 PM,,,0,"El Dueño debe de poder crear instancias de la entidad Veterinaria. Dentro de una Veterinaria pueden existir instancias de cinco entidades: Administrador, Veterinario, Cliente, Mascota y Cita. El Dueño será el encargado de crear y borrar tanto entidades Veterinaria como administradores de ellas, además de “mover” un Administrador o Veterinario de una Veterinaria a otra en caso de ser necesario. El Dueño además debe de poder realizar cualquier función que esté disponible para cualquier otra entidad.",,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0009r:,,,,,,,,,,,,,,,,,To Do,01/Sep/24 12:20 PM
+Entidad Veterinaria,SCRUM-52,10103,Epic,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,01/Sep/24 12:18 PM,01/Sep/24 1:19 PM,01/Sep/24 1:29 PM,,,0,"Dentro de una Veterinaria pueden existir instancias de cinco entidades: Administrador, Veterinario, Cliente, Mascota y Cita. 
+
+Cada una de las entidades de la Veterinaria posee permisos y funciones adaptados a sus necesidades. Todas deben de poder iniciar sesión menos Mascota y Cita.
+
+Toda Veterinaria debe de tener al menos un Administrador.",,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0009j:,,,,,,,,,,,,,,,,,To Do,01/Sep/24 12:18 PM
+Análisis y diseño,SCRUM-51,10102,Epic,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,01/Sep/24 12:17 PM,01/Sep/24 12:17 PM,01/Sep/24 12:17 PM,,,0,,,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0009b:,,,,,,,,,,,,,,,,,To Do,01/Sep/24 12:17 PM
+Creación de diseño visual inicial,SCRUM-50,10101,Task,Done,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,Done,,,Alejandro Pacheco,712020:f9195ab0-39fd-4b84-9b0d-29d16b19bbdf,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,01/Sep/24 12:15 PM,11/Sep/24 12:34 AM,11/Sep/24 12:34 AM,11/Sep/24 12:34 AM,,0,"Como usuario general quiero ver la página básica del sitio para tener una idea del negocio.
+
+
+
+*Criterios de Aceptación:*
+
+* Existe un prototipo de baja fidelidad válida. 
+* Existe una página web inicial de _homepage_.
+* La _homepage_ contendrá información de contacto, información básica de servicios, un formulario de contacto, el logo, información básica de los veterinarios trabajadores.",,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,,,,,,,,,SCRUM-12,,,,,,,,,,,,,,,,,,,0|i00093:,,,SCRUM Sprint 0,,,3.0,,,,,,,,10000_*:*_1_*:*_528933099_*|*_10002_*:*_1_*:*_0_*|*_10001_*:*_1_*:*_292977176,10102,Análisis y diseño,Done,11/Sep/24 12:34 AM
+Validación de prototipo,SCRUM-49,10100,Task,Done,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,Done,,,Alejandro Pacheco,712020:f9195ab0-39fd-4b84-9b0d-29d16b19bbdf,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,01/Sep/24 12:15 PM,07/Sep/24 3:11 PM,07/Sep/24 3:11 PM,07/Sep/24 3:11 PM,,0,"Como usuario general quiero ver la página básica del sitio para tener una idea del negocio.
+
+
+
+*Criterios de Aceptación:*
+
+* Existe un prototipo de baja fidelidad válida. 
+* Existe una página web inicial de _homepage_.
+* La _homepage_ contendrá información de contacto, información básica de servicios, un formulario de contacto, el logo, información básica de los veterinarios trabajadores.",,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,,,,,,,,,SCRUM-12,,,,,,,,,,,,,,,,,,,0|i0008v:,,,SCRUM Sprint 0,,,,,,,,,,,10000_*:*_1_*:*_340646151_*|*_10002_*:*_1_*:*_0_*|*_10001_*:*_1_*:*_188277924,10102,Análisis y diseño,Done,07/Sep/24 3:11 PM
+Pila del Producto,SCRUM-48,10099,Task,Done,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,Done,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,01/Sep/24 12:11 PM,01/Sep/24 1:30 PM,01/Sep/24 12:11 PM,01/Sep/24 1:30 PM,,0,"{adf:display=block}
+{""type"":""table"",""attrs"":{""isNumberColumnEnabled"":false,""layout"":""default"",""localId"":""478c5137-e34f-43bc-90cb-e09baf39a1d6""},""content"":[{""type"":""tableRow"",""content"":[{""type"":""tableHeader"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""Criterio""}]}]},{""type"":""tableHeader"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""Descripción""}]}]},{""type"":""tableHeader"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""Puntos Máximos""}]}]}]},{""type"":""tableRow"",""content"":[{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""Identificación de Requerimientos Clave"",""marks"":[{""type"":""strong""}]}]}]},{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""Selección de los requerimientos más importantes y relevantes para la pila de producto. ""},{""type"":""hardBreak""},{""type"":""text"",""text"":""Se evalúa la capacidad de ""},{""type"":""text"",""text"":""priorizar "",""marks"":[{""type"":""strong""}]},{""type"":""text"",""text"":""correctamente los elementos que tienen mayor impacto en el proyecto (los que se realizarán en la primera iteración están ""},{""type"":""text"",""text"":""listos "",""marks"":[{""type"":""strong""}]},{""type"":""text"",""text"":""para planificarse). Debe reflejar un entendimiento claro de las necesidades del proyecto y de los usuarios (con justificación).""}]}]},{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""4""}]}]}]},{""type"":""tableRow"",""content"":[{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""Claridad y Detalle en la Descripción"",""marks"":[{""type"":""strong""}]}]}]},{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""Cada ítem de la pila de producto debe estar claramente descrito y contener suficiente detalle para que se entienda su propósito y relevancia dentro del proyecto. Cumple con las características INVEST.""},{""type"":""hardBreak""},{""type"":""text"",""text"":""Cada ítem cuenta con criterios de aceptación completos.""}]}]},{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""4""}]}]}]},{""type"":""tableRow"",""content"":[{""type"":""tableCell"",""attrs"":{""colspan"":2},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""Total:"",""marks"":[{""type"":""strong""}]}]}]},{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""8"",""marks"":[{""type"":""strong""}]}]}]}]}]}
+{adf}",,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0008f:,,,SCRUM Sprint 0,,,,,,,,,,,10000_*:*_1_*:*_24513_*|*_10002_*:*_1_*:*_0_*|*_10001_*:*_1_*:*_4709062,10102,Análisis y diseño,Done,01/Sep/24 1:30 PM
+Creación de User Personas,SCRUM-47,10098,Task,Done,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,Done,,,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,01/Sep/24 12:10 PM,01/Sep/24 12:17 PM,01/Sep/24 12:10 PM,01/Sep/24 12:11 PM,,0,"Utilizando los datos provistos, cree los user persona. ",,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0007v:,,,SCRUM Sprint 0,,,,,,,,,,,10000_*:*_1_*:*_30773_*|*_10002_*:*_1_*:*_0,10102,Análisis y diseño,Done,01/Sep/24 12:11 PM
+Documento de Conceptualización,SCRUM-46,10097,Task,Done,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,Done,,,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,01/Sep/24 12:07 PM,01/Sep/24 12:17 PM,01/Sep/24 12:07 PM,01/Sep/24 12:08 PM,,0,"Refinamiento final de la conceptualización que se realizó en el curso teórico de Ingeniería en un documento que incluya:
+
+h4. *Definición del Problema*
+
+* *Descripción del Problema:* Identifica claramente el problema que el software debe resolver. Proporciona el entorno en el que el problema se presenta, incluyendo aspectos técnicos, sociales y de negocio (para esto ayudan los user persona).
+
+h4. *Alcance del Proyecto*
+
+* Define los límites del proyecto, incluyendo lo que está y lo que no está incluido. Especifica los productos finales que se esperan del proyecto, como el software, documentación, y otros artefactos.
+
+h4. *Requisitos del Sistema (refinados)*
+
+* *Requisitos Funcionales:* Describe las funciones que el software debe realizar.
+* *Requisitos No Funcionales:* Define características como seguridad, rendimiento, usabilidad y escalabilidad.
+
+h4. *Plan de Calidad*
+
+* *Criterios de Calidad:* Establece los estándares que el software debe cumplir (nombres de funciones y variables, pruebas, revisión de pares, análisis estático, etc). Detalla cómo se comprobará que el software cumple con los requisitos y estándares de calidad. Especificación de estrategia de control de versiones. Selección y validación de herramienta de análisis estático.",,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0007z:,,,SCRUM Sprint 0,,,,,,,,,,,10000_*:*_1_*:*_80209_*|*_10002_*:*_1_*:*_0,10102,Análisis y diseño,Done,01/Sep/24 12:08 PM
+Creación de Administrador de Veterniaria,SCRUM-45,10096,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,01/Sep/24 11:49 AM,01/Sep/24 12:35 PM,01/Sep/24 11:50 AM,,,0,"Como Dueño, quiero poder crear nuevas entidades Administrador para que manejen Veterinarias en específico
+
+
+
+*Criterios de Aceptación:*
+
+* El Dueño podrá crear una nueva entidad Administrador
+* La nueva entidad Administrador debe estar ligada a una Veterinaria",,Valentino Vidaurre,712020:d72e2db4-0fbc-4479-aba6-6db125d035bb,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0001r:,,,SCRUM Sprint 1,,,,,,,,,,,,10104,Entidad Dueño,To Do,01/Sep/24 11:49 AM
+Eliminado de Clientes,SCRUM-44,10095,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,01/Sep/24 11:38 AM,01/Sep/24 1:02 PM,11/Sep/24 12:46 AM,,,0,"Como Administrador de Veterinaria quiero poder eliminar por completo Clientes, su información de perfil y sus mascotas asociadas, para que estos datos no gasten espacio después no que el Cliente no haya estado activo por 10 años.
+
+
+
+*Criterios de Aceptación:*
+
+* Debe de haber un diálogo de confirmación antes del borrado de datos para asegurar que la acción no fue errónea. 
+* El borrado de datos no debería ser inmediato para que el administrador tenga la oportunidad de deshacer la acción en caso de algún error.",,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0003x:,,,,,,,,,,,,,,,10105,Entidad Administrador,To Do,01/Sep/24 11:38 AM
+Monitoreo de Clientes,SCRUM-43,10094,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,01/Sep/24 11:37 AM,01/Sep/24 12:42 PM,01/Sep/24 12:44 PM,,,0,"
+
+Como Administrador de Veterinaria quiero poder ver los Clientes y su información de perfil que se comparta con la Veterinaria.
+
+
+
+*Criterios de Aceptación:*
+
+* Existe el diseño de una Veterinaria.
+* Existe una idea definida de manejo de roles como Administrador y Cliente.
+* El rol Administrador podrá monitorear los datos del rol Cliente como su información de contacto y las mascotas asociadas al cliente.
+* No se compartirá la información de tarjeta registrada, si hubiese.",,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i00000:i,,,,,,,,,,,,,,,10105,Entidad Administrador,To Do,01/Sep/24 11:37 AM
+Eliminado de Veterinarios,SCRUM-42,10093,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,01/Sep/24 11:37 AM,09/Sep/24 11:24 AM,01/Sep/24 12:44 PM,,,0,"Como Administrador de Veterinaria quiero poder eliminar una entidad Veterinario en mí clínica específica para casos de despido, renuncia, o mudanza.
+
+
+
+*Criterios de Aceptación:*
+
+* Existe el diseño de una Veterinaria.
+* Existe una idea definida de manejo de roles como Administrador, Veterinario, y Cliente.
+* El rol Administrador podrá desactivar instancias de Veterinario. 
+* El rol Veterinario no se eliminará por completo por razones de registro/historial e interconexiones con otras entidades, pero ya no saldrá como presente",,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0007t:,,,SCRUM Sprint 1,,,,,,,,,,,,10105,Entidad Administrador,To Do,01/Sep/24 11:37 AM
+Modificar Veterinarios por parte del Admin,SCRUM-41,10092,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,01/Sep/24 11:37 AM,01/Sep/24 12:36 PM,01/Sep/24 11:42 AM,,,0,"Como Administrador de Veterinaria quiero poder modificar los valores de la entidad Veterinario en mí clínica específica para actualizar la información de los empleados.
+
+
+
+*Criterios de Aceptación:*
+
+* Existe el diseño de una Veterinaria.
+* Existe una idea definida de manejo de roles como Administrador, Veterinario, y Cliente.
+* El rol Administrador podrá manejar la información de la entidad Veterinario.",,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0007p:,,,SCRUM Sprint 1,,,,,,,,,,,,10105,Entidad Administrador,To Do,01/Sep/24 11:37 AM
+Supervisión de Veterinarios por parte de Administrador,SCRUM-40,10091,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,01/Sep/24 11:35 AM,09/Sep/24 11:24 AM,11/Sep/24 12:46 AM,,,0,"# Como Administrador de Veterinaria, quiero poder ver información sobre entidades Veterinario de mi Veterinaria.
+
+
+
+*Criterios de Aceptación:*
+
+* Existe un rol privilegiado Administrador.
+* Existe una idea definida de manejo de roles como Administrador y Veterinario.
+* El rol de Administrador podrá: ver la información de la entidad Veterinario de su propia Veterinaria.",,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0007o:i,,,SCRUM Sprint 1,,,,,,,,,,,,10105,Entidad Administrador,To Do,01/Sep/24 11:35 AM
+Registro de una nueva mascota,SCRUM-39,10090,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,01/Sep/24 11:33 AM,01/Sep/24 1:25 PM,11/Sep/24 12:46 AM,,,0,"Como Veterinario debo de ser capaz de registrar mascotas de los Clientes para empezar a llevar registro de su historial médico con la Veterinaria.
+
+
+
+*Criterios de Aceptación:*
+
+* El Veterinario puede registrar una nueva mascota asociada con un cliente.
+* Se deben incluir datos como nombre de la mascota, tipo de animal, raza, edad, peso, hábitos alimenticios, entre otros.
+* Los datos deben ser validados y los campos obligatorios completados antes de guardar los datos.",,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0003f:,,,,,,,,,,,,,,,10108,Entidad Mascota,To Do,01/Sep/24 11:33 AM
+Ver citas agendadas con un Veterinario particular,SCRUM-38,10089,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,01/Sep/24 11:32 AM,01/Sep/24 12:39 PM,01/Sep/24 12:39 PM,,,0,"Como Veterinario quiero poder ver las citas que se han agendado conmigo en la clínica para saber cuáles Clientes y mascotas voy a atender próximamente.
+
+
+
+*Criterios de Aceptación:*
+
+* El rol Veterinario se relaciona con una entidad Citas que tenga definido el horario y la Mascota asociada
+* El Veterinario tendrá una vista tipo calendario donde podrá revisar sus citas pendientes",,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|hzzzzz:v,,,,,,,,,,,,,,,10106,Entidad Veterinario,To Do,01/Sep/24 11:32 AM
+Filtros en el registro de pagos,SCRUM-37,10088,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,01/Sep/24 11:30 AM,01/Sep/24 1:03 PM,11/Sep/24 12:46 AM,,,0,"Como Administrador quiero poder separar/filtrar los pagos realizados por criterios como fecha, tipo, lugar, monto para poder analizar los ingresos.
+
+
+
+*Criterios de Aceptación:*
+
+* Existirá una opción de filtrar el historial de pagos global.
+* Se podrá filtrar por los criterios fecha, tipo, lugar, monto y cliente.
+* Los resultados se despliegan con paginación.",,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0005x:,,,,,,,,,,,,,,,10103,Entidad Veterinaria,To Do,01/Sep/24 11:30 AM
+Ver registro de todos los pagos realizados en la Veterinaria,SCRUM-36,10087,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,01/Sep/24 11:29 AM,01/Sep/24 1:02 PM,11/Sep/24 12:46 AM,,,0,"Como Administrador quiero ver el registro de todos los pagos realizados para tener un control de ingresos.
+
+
+
+*Criterios de Aceptación:*
+
+* El Administrador puede ver todos los pagos realizados por clientes con información de fechas, montos pagados y productos comprados.
+* El registro está organizado de manera cronológica.",,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0005v:,,,,,,,,,,,,,,,10105,Entidad Administrador,To Do,01/Sep/24 11:29 AM
+Ver todas las citas agendadas en la Veterinaria,SCRUM-34,10085,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,01/Sep/24 11:28 AM,01/Sep/24 12:39 PM,01/Sep/24 12:39 PM,,,0,"# Como Administrador quiero poder ver todas las citas agendadas en la clínica para tener un registro de las próximas citas.
+
+
+
+*Criterios de Aceptación:*
+
+* El Administrador tiene acceso a una sección donde aparecen todas las próximas citas agendadas en la Veterinaria. 
+* Las citas agendadas muestran los datos de la misma incluyendo fecha, Cliente, mascota, Veterinario y tipo de cita.",,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|hzzzzz:r,,,,,,,,,,,,,,,10105,Entidad Administrador,To Do,01/Sep/24 11:28 AM
+Modificar perfil del Cliente,SCRUM-33,10084,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,01/Sep/24 11:27 AM,01/Sep/24 1:03 PM,11/Sep/24 12:46 AM,,,0,"Como Cliente quiero poder modificar mi propio perfil para actualizar la información mía que tiene la Veterinaria.
+
+
+
+*Criterios de Aceptación:*
+
+* El Cliente puede cambiar sus datos en cualquier momento.
+* Se deben validar los campos y  asegurar que los datos requeridos no queden vacíos antes de guardar las modificaciones.",,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i00067:,,,,,,,,,,,,,,,10105,Entidad Administrador,To Do,01/Sep/24 11:27 AM
+Ver perfil del Cliente,SCRUM-32,10083,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,01/Sep/24 11:25 AM,01/Sep/24 1:03 PM,11/Sep/24 12:46 AM,,,0,"# Como Cliente quiero poder ver mi propio perfil para saber qué información mía tiene la Veterinaria.
+
+
+
+*Criterios de Aceptación:*
+
+* El Cliente tiene acceso a una sección “Mi perfil” con información básica de este y datos de contacto como correo electrónico, teléfono y dirección.",,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0005z:,,,,,,,,,,,,,,,10105,Entidad Administrador,To Do,01/Sep/24 11:25 AM
+Pagos en línea,SCRUM-31,10082,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,01/Sep/24 11:24 AM,01/Sep/24 1:02 PM,11/Sep/24 12:46 AM,,,0,"# Como Cliente quiero poder ver las próximas citas que he agendado en la clínica para poder revisar que todos mis datos sean correctos.
+
+
+
+*Criterios de Aceptación:*
+
+* Las citas agendadas por el Cliente muestran los datos de la misma incluyendo fecha, Cliente, mascota, Veterinario y tipo de cita.",,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i00057:,,,,,,,,,,,,,,,10107,Entidad Cliente,To Do,01/Sep/24 11:24 AM
+Ver historial de pagos del Cliente,SCRUM-30,10081,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,01/Sep/24 11:24 AM,01/Sep/24 1:02 PM,01/Sep/24 1:02 PM,,,0,"Como Cliente quiero ver mi historial de pagos en mi cuenta para mantener un control de mis gastos.
+
+
+
+*Criterios de Aceptación:*
+
+* El historial debe mostrar los productos o servicios comprados, el monto pagado, el tipo de pago y la fecha.
+* El historial debe estar ordenado cronológicamente.",,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0005j:,,,,,,,,,,,,,,,10107,Entidad Cliente,To Do,01/Sep/24 11:24 AM
+Seguridad en el método de pago,SCRUM-29,10080,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,01/Sep/24 11:24 AM,01/Sep/24 1:02 PM,11/Sep/24 12:46 AM,,,0,"# Como Cliente quiero poder ver las próximas citas que he agendado en la clínica para poder revisar que todos mis datos sean correctos.
+
+
+
+*Criterios de Aceptación:*
+
+* Las citas agendadas por el Cliente muestran los datos de la misma incluyendo fecha, Cliente, mascota, Veterinario y tipo de cita.",,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0005b:,,,,,,,,,,,,,,,10103,Entidad Veterinaria,To Do,01/Sep/24 11:24 AM
+Ver historial de citas del Cliente,SCRUM-28,10079,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,01/Sep/24 11:23 AM,01/Sep/24 1:02 PM,01/Sep/24 1:02 PM,,,0,"Como Cliente quiero poder ver las citas históricas que he agendado en la clínica para comprobar que todos mis datos sean correctos.
+
+
+
+*Criterios de Aceptación:*
+
+* Habrá una sección de ""Historial""
+* El Cliente podrá revisar cuáles citas fueron agendadas en la sección correspondiente de historial
+* El registro del historial contendrá citas agendadas, citas canceladas, detalles sobre el médico atendiente, la mascota y una breve descripción de la cita",,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i00053:,,,,,,,,,,,,,,,10107,Entidad Cliente,To Do,01/Sep/24 11:23 AM
+Monitoreo de Citas Próximas,SCRUM-27,10078,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,01/Sep/24 11:21 AM,01/Sep/24 12:37 PM,01/Sep/24 12:37 PM,,,0,"# Como Cliente quiero poder ver las próximas citas que he agendado en la clínica para poder revisar que todos mis datos sean correctos.
+
+
+
+*Criterios de Aceptación:*
+
+* Las citas agendadas por el Cliente muestran los datos de la misma incluyendo fecha, Cliente, mascota, Veterinario y tipo de cita.",,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|hzzzzz:i,,,,,,,,,,,,,,,10107,Entidad Cliente,To Do,01/Sep/24 11:21 AM
+Modificar fecha de una cita agendada,SCRUM-26,10077,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,01/Sep/24 11:21 AM,01/Sep/24 1:25 PM,01/Sep/24 1:28 PM,,,0,"Como Cliente quiero poder modificar citas agendadas para cumplir mejor con mi horario.
+
+
+
+*Criterios de Aceptación:*
+
+* El Cliente puede modificar la fecha de una Cita mientras que no sea el día de la Cita en sí. 
+* El Cliente puede escoger una nueva fecha de las que estén disponibles en la Veterinaria.",,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i00000:9,,,,,,,,,,,,,,,10109,Entidad Cita,To Do,01/Sep/24 11:21 AM
+Ver el registro médico de las mascotas del Cliente,SCRUM-25,10076,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,01/Sep/24 11:20 AM,01/Sep/24 1:01 PM,01/Sep/24 1:01 PM,,,0,"Como Cliente quiero poder ver el registro médico de mi mascota desde la página web para tenerlo disponible en todo momento.
+
+
+
+*Criterios de Aceptación:*
+
+* Se mantiene un registro médico por mascota.
+* El Cliente solo puede ver el registro, no modificarlo.",,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0003n:,,,,,,,,,,,,,,,10107,Entidad Cliente,To Do,01/Sep/24 11:20 AM
+Descargado de historial,SCRUM-24,10075,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,01/Sep/24 11:20 AM,01/Sep/24 1:01 PM,11/Sep/24 12:46 AM,,,0,"# Como Cliente quiero poder descargar el registro médico de mi mascota desde la página web para tener mi propia copia.
+
+
+
+*Criterios de Aceptación:*
+
+* Se mantiene un registro médico por mascota.
+* El Cliente solo puede ver el registro, no modificarlo.
+* El registro se puede descargar en formato pdf.",,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0003v:,,,,,,,,,,,,,,,10107,Entidad Cliente,To Do,01/Sep/24 11:20 AM
+Agregado de información externa a historial médico,SCRUM-23,10074,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,01/Sep/24 11:19 AM,01/Sep/24 1:01 PM,11/Sep/24 12:46 AM,,,0,"# Como Veterinario quiero poder integrar reportes independientes de otras fuentes externas al historial médico de la mascota para tener un expediente más completo.
+
+
+
+*Criterios de Aceptación:*
+
+* El rol Veterinario podrá agregar nuevos reportes 
+* Se podrán agregar sólamente reportes que sigan un formato estándar para asegurar cohesión
+* En caso de un reporte no seguir estándar, se podrá generar una copia que conforme al estándar siempre y cuando la información sea la misma
+* Los reportes agregados podrán ser retroactivos (se insertan entre dos fechas y no solo al final)",,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0003u:,,,,,,,,,,,,,,,10106,Entidad Veterinario,To Do,01/Sep/24 11:19 AM
+Agregado de información local a historial médico,SCRUM-22,10073,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,01/Sep/24 11:19 AM,01/Sep/24 1:01 PM,11/Sep/24 12:46 AM,,,0,"# Como Veterinario quiero poder agregar nueva data de las citas de la Veterinaria al historial médico de una mascota para darle seguimiento.
+
+
+
+*Criterios de Aceptación:*
+
+* Los detalles de cada cita (nombre del médico, diagnóstico, procedimientos, notas) se registrarán en un reporte de cita
+* Los reportes generados de añadirán automáticamente al final del historial médico de la mascota.",,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0003r:,,,,,,,,,,,,,,,10106,Entidad Veterinario,To Do,01/Sep/24 11:19 AM
+Monitoreo del historial médico por parte del Veterinario,SCRUM-21,10072,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,01/Sep/24 11:18 AM,01/Sep/24 1:01 PM,01/Sep/24 11:37 AM,,,0,"Como Veterinario quiero poder monitorear el historial médico de una mascota para saber información médica relevante.
+
+
+
+*Criterios de Aceptación:*
+
+* Existe el diseño de una Veterinaria con entidades Mascota y Veterinario.
+* Cada Mascota tendrá un historial médico
+* El Veterinario podrá consultar el historial médico de cualquier Mascota que pertenezca a un Cliente de su Veterinaria.",,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0003j:,,,,,,,,,,,,,,,10106,Entidad Veterinario,To Do,01/Sep/24 11:18 AM
+Crear historial médico para una mascota por parte del Veterinario,SCRUM-20,10071,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,01/Sep/24 11:17 AM,01/Sep/24 1:24 PM,01/Sep/24 11:39 AM,,,0,"Como Veterinario quiero crear un historial médico para una nueva mascota para tener un rastro histórico de su atención.
+
+
+
+*Criterios de Aceptación:*
+
+* Existe el diseño de una Veterinaria.
+* El rol de Veterinario podrá crear nuevas entidades Mascota
+* Cada Mascota tendrá un historial médico
+* El Veterinario podrá empezar un nuevo historial médico únicamente para una nueva mascota",,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0003b:,,,,,,,,,,,,,,,10108,Entidad Mascota,To Do,01/Sep/24 11:17 AM
+Acceder y mostar info a otra Veterinaria por parte del Cliente,SCRUM-19,10070,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,01/Sep/24 11:15 AM,01/Sep/24 1:00 PM,11/Sep/24 12:46 AM,,,0,"Como Cliente quiero poder acceder a la información médica y mostrársela a otra entidad Veterinaria.
+
+*Criterios de Aceptación:*
+
+* Existe el diseño de una Veterinaria.
+* La data de un Cliente puede estar presente en varias instancias Veterinaria.
+* Al Cliente asociarse a otra sede se le pregunta si quiere compartir una copia del expediente médico a la nueva sede automáticamente
+* La cuenta de un Cliente se puede relacionar a varias Veterinarias
+* Se puede adjuntar reportes al historial médico",,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i00033:,,,,,,,,,,,,,,,10107,Entidad Cliente,To Do,01/Sep/24 11:15 AM
+Actualizar información de la página web,SCRUM-18,10069,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,01/Sep/24 11:12 AM,01/Sep/24 1:00 PM,01/Sep/24 12:59 PM,,,0,"Como Administrador quiero que la página web se conecte a la base de datos para que la información de cada sede sea actualizada sin tener que codificar entradas manualmente.
+
+
+
+*Criterios de Aceptación:*
+
+* Existe una página web para las sedes Veterinarias.
+* La información de cada página que sea específica a la sede (ubicación, información de contacto, información de Veterinarios trabajadores) debe reflejar la data más reciente de la base de datos.",,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0002v:,,,,,,,,,,,,,,,10103,Entidad Veterinaria,To Do,01/Sep/24 11:12 AM
+Comprobación de Información por parte de Dueño,SCRUM-17,10068,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,01/Sep/24 11:06 AM,09/Sep/24 11:35 AM,01/Sep/24 11:53 AM,,,0,"# Como Dueño, quiero poder ver la información sobre cualquier entidad en mi sistema.
+
+
+
+*Criterios de Aceptación:*
+
+* Existe un rol privilegiado Dueño.
+* Existe el diseño de una Veterinaria que contiene Administrador, Veterinario y Cliente.
+* El rol de Dueño podrá: ver información sobre cualquier entidad (Administrador, Veterinario y Cliente).",,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i00017:,,,SCRUM Sprint 1,,,,,,,,,,,,10104,Entidad Dueño,To Do,01/Sep/24 11:06 AM
+Eliminar entidades de las Veterinaria,SCRUM-16,10067,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,01/Sep/24 11:05 AM,09/Sep/24 11:32 AM,01/Sep/24 12:43 PM,,,0,"Como Dueño, quiero poder eliminar cualquier entidad de mi sistema.
+
+*Criterios de Aceptación:*
+
+* Existe un rol privilegiado Dueño.
+* Existe el diseño de una Veterinaria que contiene Administrador, Veterinario y Cliente.
+* El rol de Dueño podrá: eliminar cualquier entidad (Administrador, Veterinario y Cliente).",,Paola Feng,712020:8f8a2f16-ca4a-48b3-a882-3ae0614753df,,,,,,,,,,SCRUM-59,,,,,,,,,,,,,,,,,,0|i00001:,,,,,,,,,,,,,,,10104,Entidad Dueño,To Do,01/Sep/24 11:05 AM
+Movimiento de Administradores,SCRUM-15,10066,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Alejandro Pacheco,712020:f9195ab0-39fd-4b84-9b0d-29d16b19bbdf,Alejandro Pacheco,712020:f9195ab0-39fd-4b84-9b0d-29d16b19bbdf,01/Sep/24 10:01 AM,01/Sep/24 12:35 PM,11/Sep/24 12:46 AM,,,0,"# Como Dueño, quiero poder mover entidades Veterinario entre entidades Veterinaria.
+
+
+
+*Criterios de Aceptación:*
+
+* El Dueño podrá mover cualquier Veterinario de una Veterinaria a otra.",,Alejandro Pacheco,712020:f9195ab0-39fd-4b84-9b0d-29d16b19bbdf,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i00027:,,,SCRUM Sprint 1,,,,,,,,,,,,10104,Entidad Dueño,To Do,01/Sep/24 10:01 AM
+Manejo de Datos Cliente Por Parte del Admin,SCRUM-14,10038,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,28/Aug/24 9:32 AM,01/Sep/24 12:59 PM,01/Sep/24 12:59 PM,,,0,"Como administrador de veterinaria quiero poder manejar los valores de la entidad Cliente en caso de problemas técnicos o tener que cambiar algo a fuerza.
+
+
+
+*Criterios de Aceptación:*
+
+* Existe el diseño de una Veterinaria.
+* Existe una idea definida de manejo de roles como Administrador, Veterinario, y Cliente.
+* El rol Administrador podrá modificar los datos del rol Cliente.",,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i00006:r,,,,,,,,,,,,,,,10105,Entidad Administrador,To Do,28/Aug/24 9:32 AM
+Movimiento de Veterinarios,SCRUM-13,10037,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,28/Aug/24 9:32 AM,01/Sep/24 12:59 PM,11/Sep/24 12:46 AM,,,0,"# Como Dueño, quiero poder mover entidades Administrador entre entidades Veterinaria.
+
+*Criterios de Aceptación:*
+
+* El Dueño podrá mover cualquier Administrador de una Veterinaria a otra.",,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i00006:,,,,,,,,,,,,,,,10104,Entidad Dueño,To Do,28/Aug/24 9:32 AM
+Creación de prototipo de home page,SCRUM-12,10036,Task,Done,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,Done,,,Alejandro Pacheco,712020:f9195ab0-39fd-4b84-9b0d-29d16b19bbdf,Alejandro Pacheco,712020:f9195ab0-39fd-4b84-9b0d-29d16b19bbdf,28/Aug/24 9:30 AM,05/Sep/24 10:52 AM,01/Sep/24 12:21 PM,05/Sep/24 10:52 AM,,0,"Como usuario general quiero ver la página básica del sitio para tener una idea del negocio.
+
+
+
+*Criterios de Aceptación:*
+
+* Existe un prototipo de baja fidelidad válida. 
+* Existe una página web inicial de _homepage_.
+* La _homepage_ contendrá información de contacto, información básica de servicios, un formulario de contacto, el logo, información básica de los veterinarios trabajadores.",,Alejandro Pacheco,712020:f9195ab0-39fd-4b84-9b0d-29d16b19bbdf,,,,,,,,,,SCRUM-49,SCRUM-50,,,,,,,,,,,,,,,,,0|i0008n:,,,SCRUM Sprint 0,,,,,,,,,,,10000_*:*_1_*:*_434730062_*|*_10002_*:*_1_*:*_0_*|*_10001_*:*_1_*:*_261411024,10102,Análisis y diseño,Done,05/Sep/24 10:52 AM
+Administrador debe poder registrar Veterinario,SCRUM-11,10035,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Alejandro Pacheco,712020:f9195ab0-39fd-4b84-9b0d-29d16b19bbdf,Alejandro Pacheco,712020:f9195ab0-39fd-4b84-9b0d-29d16b19bbdf,28/Aug/24 9:29 AM,01/Sep/24 12:36 PM,01/Sep/24 12:00 PM,,,0,"Como administrador de veterinaria quiero poder registrar Veterinario en una clínica específica para poder registrar los trabajadores de un local.
+
+*Criterios de Aceptación:*
+
+* Existe el diseño de una Veterinaria.
+* Existe una idea definida de manejo de roles como Administrador, Veterinario, y Cliente.
+* El rol Administrador podrá agregar instancias de la categoría Veterinario mediante la creación de cuentas para ellos.
+* Las credenciales dadas al veterinario deben de ser únicas.
+* Todo los permisos deben de ser los mismos entre veterinarios.
+* El rol Administrador podrá manejar la información de la categoría Veterinario.",,Alejandro Pacheco,712020:f9195ab0-39fd-4b84-9b0d-29d16b19bbdf,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0007o:,,,SCRUM Sprint 1,,,,,,,,,,,,10105,Entidad Administrador,To Do,28/Aug/24 9:29 AM
+Modificación de Entidades Veterinarias,SCRUM-10,10034,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Alejandro Pacheco,712020:f9195ab0-39fd-4b84-9b0d-29d16b19bbdf,Alejandro Pacheco,712020:f9195ab0-39fd-4b84-9b0d-29d16b19bbdf,28/Aug/24 9:28 AM,09/Sep/24 11:34 AM,01/Sep/24 12:29 PM,,,0,"Como Dueño, quiero poder modificar información de las entidades Veterinaria para gestionar las diferentes sedes.
+
+
+
+*Criterios de Aceptación:*
+
+* Existe un rol privilegiado Dueño
+* Existe el diseño de una Veterinaria que contiene Administrador, Veterinario, y Cliente.
+* El rol de Dueño podrá modificar: la información de cualquier Administrador o Veterinario.",,Alejandro Pacheco,712020:f9195ab0-39fd-4b84-9b0d-29d16b19bbdf,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0001b:,,,SCRUM Sprint 1,,,3.0,,,,,,,,,10104,Entidad Dueño,To Do,28/Aug/24 9:28 AM
+Creación de Nuevas Entidades Veterinaria,SCRUM-9,10033,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,28/Aug/24 9:28 AM,09/Sep/24 11:33 AM,01/Sep/24 12:19 PM,,,0,"Como Dueño quiero poder crear nuevas entidades Veterinaria para tener la posibilidad de expandir mi franquicia mediante varias sedes.
+
+*Criterios de Aceptación:*
+
+* Existe un rol privilegiado Dueño.
+* Existe el diseño de una Veterinaria que contiene Administrador, Veterinario, y Cliente.
+* El rol de Dueño podrá crear cualquier cantidad de entidades Veterinaria, cada una asignada a una ubicación.
+* El rol de Dueño podrá crear uno o varios Administrador para cada Veterinaria.",,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i00013:,,,SCRUM Sprint 1,,,1.0,,,,,,,,,10104,Entidad Dueño,To Do,28/Aug/24 9:28 AM
+Cancelado de Citas,SCRUM-5,10004,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,26/Aug/24 11:12 AM,01/Sep/24 1:25 PM,11/Sep/24 12:46 AM,,,0,"Como cliente quiero poder cancelar citas para tener flexibilidad a la hora de tratar a mi mascota.
+
+*Criterios de aceptación:*
+
+* Debe ser un mínimo de 24 horas antes, en caso contrario se penaliza con un cobro de $5.
+* Incluir un proceso de confirmación para no cancelarla por error.
+* Recibe una confirmación de que la cita fué cancelada.",,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i00000:,,,,,,,,,,,,,,,10109,Entidad Cita,To Do,26/Aug/24 11:12 AM
+Inicio de sesión Admin,SCRUM-3,10002,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,26/Aug/24 11:09 AM,09/Sep/24 11:34 AM,11/Sep/24 12:46 AM,,,0,"+Resumen+: Como Administrador  de una veterinaria quiero poder iniciar sesión ingresando mi correo y contraseña para poder utilizar los servicios de mi plataforma.
+
+*Criterios de aceptación:*
+
+* El inicio de sesión debe poder realizarse utilizando correo electrónico y contraseña.
+* Se debe validar que la dirección de correo electrónico sea de un formato válido. Se muestra un mensaje de error si se ingresa una dirección de correo electrónico inválida.
+* La contraseña debe coincidir con la que está registrada para el correo dado. Se muestra un mensaje de error en caso contrario: “El usuario o contraseña son incorrectos.”
+* Los datos enviados de contraseñas deben ser encriptados 
+* En caso de olvidar la contraseña se puede restablecer mediante el envío de un link por correo electrónico.",,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0000n:,,,SCRUM Sprint 1,,,3.0,,,,,,,,,10103,Entidad Veterinaria,To Do,26/Aug/24 11:09 AM
+"Registro como cliente
+",SCRUM-2,10001,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,26/Aug/24 11:01 AM,01/Sep/24 1:24 PM,01/Sep/24 1:24 PM,,,0,"Como cliente quiero poder registrarme ingresando mis credenciales (nombre, apellido, correo y contraseña) para poder acceder a los servicios de una veterinaria.
+
+
+
+*Criterios de aceptación:*
+
+* Se debe validar que la dirección de correo electrónico sea de un formato válido. Se muestra un mensaje de error si se ingresa una dirección de correo electrónico inválida.
+* La contraseña debe seguir un formato de un mínimo de 8 carácteres y un máximo de 15. Se muestra un mensaje de error en caso contrario: “La contraseña no cumple con el formato especificado.”",,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|hzzzzv:,,,,,,,,,,,,,,,10107,Entidad Cliente,To Do,26/Aug/24 11:01 AM
+Agendado de Citas,SCRUM-1,10000,Task,To Do,SCRUM,PI BD y Software,software,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,Medium,,,,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,26/Aug/24 11:00 AM,01/Sep/24 1:25 PM,11/Sep/24 12:46 AM,,,0,"+*Resumen:*+ 
+Como cliente quiero poder agendar citas en función de fecha y/o tipo (revisión, seguimiento) de consulta y disponibilidad del veterinario para tratar a mi mascota.
+
+*Criterios de aceptación:*
+
+* Al cliente le debe llegar un correo de confirmación cuando la cita fue agendada.
+* No pueden haber conflictos entre citas.",,Ernesto Delgado Paez,622ff97c3fbb8800683fc159,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|hzzzzz:,,,,,,,,,,,,,,,10109,Entidad Cita,To Do,26/Aug/24 11:00 AM
